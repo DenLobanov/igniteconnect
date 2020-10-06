@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: User
+Build-Jdk: 14.0.2
+Main-Class: ru.spaceaccordeonist.ConsoleManager
+
